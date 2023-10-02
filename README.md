@@ -1,6 +1,6 @@
 # PairDrop
 
-<span style="font-size: 500px; font-weight: bold;">Pernahkah kamu mengalami hal ini?</span>
+<h2 style="font-size: 16px;">This is a custom-sized heading.</h2>
 
 <h1 align="center"><img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/android-chrome-512x512.png?raw=true" alt="PairDrop" width="500" height="500"></h1>
 
