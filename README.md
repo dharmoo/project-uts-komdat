@@ -25,9 +25,9 @@ Berikut ini adalah beberapa program yang harus disediakan terlebih dahulu sebelu
 ### Langkah-langkah Instalasi
 
 Langkah 1: Lakukan Log-in ke SSH.  
-    ```
-    $ ssh username@hostname_or_IP
-    ```  
+```
+$ ssh username@hostname_or_IP
+```  
 Langkah 2: Install Docker dan juga lakukan cloning dari Repo PairDrop.  
 Langkah 3: Lakukan perubahan ke file docker-compose.yml, sebagai berikut.  
 Langkah 4: Jangan lupa untuk menambahkan command berikut agar webnya dapat dideploy.  
