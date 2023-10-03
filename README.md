@@ -24,16 +24,16 @@ Berikut ini adalah beberapa program yang harus disediakan terlebih dahulu sebelu
 
 ### Langkah-langkah Instalasi
 
-1. Lakukan proses Log-in ke dalam SSH
+1. Lakukan proses Log-in ke dalam SSH:  
     ```
     $ ssh username@hostname_or_IP
     ```  
-2. Lakukan proses instalasi Docker dan juga cloning terhadap Repo PairDrop
+2. Lakukan proses instalasi Docker dan juga cloning terhadap Repo PairDrop:  
     ```
     $ git clone https://github.com/schlagmichdoch/PairDrop.git
     $ cd PairDrop
     ```  
-3. Lakukan perubahan ke dalam file docker-compose.yml
+3. Lakukan perubahan ke dalam file docker-compose.yml:  
    ```
    import http.server
    import socketserver
@@ -46,11 +46,11 @@ Berikut ini adalah beberapa program yang harus disediakan terlebih dahulu sebelu
    	print("Server started on port", PORT)
    	httpd.serve_forever()
    ```  
-4. Jangan lupa untuk jalankan command ini agar DropPair dapat dideploy:
+4. Jangan lupa untuk jalankan command ini agar DropPair dapat dideploy:  
    ```
    $ sudo docker compose up -d
    ```  
-5. cek apakah docker berhasil dijalankan
+5. Cek apakah docker berhasil dijalankan:  
    ```
    $ sudo docker ps
    ```  
