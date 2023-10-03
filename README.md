@@ -48,9 +48,12 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 ## Cara Pemakaian
 
-- Tampilan aplikasi web
-- Fungsi-fungsi utama
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
+Untuk mulai menggunakan PairDrop, pengguna dapat mengklik link [berikut](https://ipb.link/komunikasi-lucu). Setelah pengguna mengklik link tersebut, akan muncul tampilan layar PairDrop sebagai berikut:
+
+Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain dengan beberapa metode sesuai dengan kebutuhan serta kondisi perangkat dan juga jaringan pengguna:
+- Melakukan transfer data antargawai dalam sebuah jaringan lokal
+- Menghubungkan dua perangkat secara permanen untuk transfer data
+- Menciptakan ruang publik untuk kebutuhan transfer data
 
 
 ## Pembahasan
