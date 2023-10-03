@@ -152,12 +152,12 @@ Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain deng
     
    Langkah 7: Pada perangkat penerima, klik Accept untuk mendownload file.  
    <p align="center">
-  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/qrshare.png" alt="qrshare" width="700" style="display: block; margin: 0 auto;">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/apureceived.jpg" alt="received" width="300" style="display: block; margin: 0 auto;">
     </p>
    
    Langkah 8: Untuk memutus hubungan, klik unpair pada perangkat yang ingin diputus hubungannya.  
    <p align="center">
-  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/apureceived.jpg" alt="received" width="300" style="display: block; margin: 0 auto;">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/leave.png" alt="leave" width="700" style="display: block; margin: 0 auto;">
     </p>
 
 ## Pembahasan
