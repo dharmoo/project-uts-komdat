@@ -1,8 +1,7 @@
 # PairDrop
-
-<span style="font-size: 16px; font-style: bold;">This is a custom-sized heading.</span>
-
-<span align="center"><img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/android-chrome-512x512.png?raw=true" alt="PairDrop" width="400" height="400"></span>
+<p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/android-chrome-512x512.png?raw=true" alt="PairDrop" width="300" height="300">
+</p>
 
 ## Brief Overview
 
