@@ -165,8 +165,20 @@ Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain deng
 - Pendapat anda tentang aplikasi web ini
     - kelebihan
     - kekurangan
-- Bandingkan dengan aplikasi web lain yang sejenis
 
+Jika dibandingkan dengan WebApp lain yang menjadi inspirasi dari dibuatnya PairDrop (AirDrop dan juga SnapDrop), terdapat beberapa perbedaan fundamental antara ketiga WebApp ini.
+
+### Perbandingan dengan AirDrop
+
+Perbedaan utama antara PairDrop dan juga AirDrop yang dimiliki oleh Apple ialah dari tingkat kompatibilitasnya. Berbeda dengan AirDrop yang dikhususkan untuk perangkat Apple saja, PairDrop dapat diakses dan digunakan oleh hampir semua perangkat Non-Apple. Sama seperti dengan sistem AirDrop, PairDrop juga dapat menghubungkan antara handphone dengan laptop ataupun PC. Hal ini menunjukkan bahwa sebenarnya kinerja dari PairDrop sangatlah mirip dengan AirDrop, dengan perbedaan utamanya yang terletak di metode connect PairDrop yang lebih beragam.
+
+### Perbandingan dengan SnapDrop
+
+Mengingat proses development PairDrop yang terinspirasi dari SnapDrop, maka dapat dikatakan bahwa ada banyak aspek (mulai dari skema warna, UX, fitur, hingga sifatnya yang Open Source) yang mirip dengan SnapDrop. Namun, jika diperhatikan secara saksama, masih ada beberapa perbedaan fitur yang membuat PairDrop (menurut kami) lebih nyaman untuk digunakan dibandingkan dengan SnapDrop. Perbedaan-perbedaan tersebut ialah sebagai berikut:  
+  - Keterbukaan PairDrop terhadap prinsip Self-Hosting.  
+  - Terdapat fitur untuk mengganti bahasa dari tampilan PairDrop.  
+  - Terdapat fitur untuk menampilkan notifikasi apabila ada perangkat lain yang ingin terhubung.  
+  - Terdapat lebih banyak cara untuk menghubungkan dua perangkat (Membuat Public Room, Menghubungkan Perangkat secara Permanen dengan Kode, dan juga Menghubungkan Perangkat dalam Jaringan yang Sama).  
 
 ## Referensi
 
