@@ -201,7 +201,7 @@ Terdapat cukup banyak hal positif yang menjadikan PairDrop pilihan alternatif ya
 ### Kekurangan PairDrop
 
 Meskipun ada banyak hal positif dalam WebApp PairDrop, kami masih menemukan beberapa kekurangan ataupun limitasi yang diharapkan dapat diperbaiki oleh pihak pengembang. Kekurangan-kekurangan tersebut ialah sebagai berikut: 
-  - Perangkat Apple masih belum dapat dihubungkan dengan perangkat Non-Apple. Hal ini mengakibatkan proses transfer data antara kedua perangkat tidak mungkin terjadi.
+  - Penghubungan antara perangkat Apple dengan perangkat Non-Apple masih belum sempurna. Hal ini mengakibatkan proses transfer data antara kedua perangkat tidak konsisten.
   - Kecepatan proses pendeteksian perangkat dalam sebuah jaringan masih dapat ditingkatkan kembali.
 
 
@@ -221,4 +221,5 @@ Mengingat proses development PairDrop yang terinspirasi dari SnapDrop, maka dapa
 
 ## Referensi
 
-Cantumkan tiap sumber informasi yang anda pakai.
+- [PairDrop](https://github.com/schlagmichdoch/PairDrop)  
+- [SnapDrop](https://snapdrop.net)  
