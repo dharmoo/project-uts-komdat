@@ -78,11 +78,15 @@ Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain deng
     
    Langkah 5: Pada perangkat penerima, klik Accept untuk mendownload file. 
    <p align="center">
-  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/receive.jpg" alt="receive" width="400" style="display: block; margin: 0 auto;">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/receive.jpg" alt="receive" width="300" style="display: block; margin: 0 auto;">
     </p>
     
 ### Menghubungkan dua perangkat secara permanen untuk transfer data:  
-   Langkah 1: Pastikan bahwa kedua perangkat masuk ke laman utama PairDrop.  
+   Langkah 1: Pastikan bahwa kedua perangkat masuk ke laman utama PairDrop. 
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/samenetwork.png" alt="samnetwork" width="700" style="display: block; margin: 0 auto;">
+    </p>
+    
    Langkah 2: Klik tombol rantai yang ada di bagian kanan atas laman.  
    Langkah 3: Pengguna dapat memasukkan kode atau meng-scan kode QR yang ada di perangkat yang ingin dihubungkan.  
    Langkah 4: Klik pada perangkat yang ingin dikirimi data.  
