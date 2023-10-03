@@ -2,11 +2,11 @@
 
 <span style="font-size: 16px; font-style: bold;">This is a custom-sized heading.</span>
 
-<span align="center"><img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/android-chrome-512x512.png?raw=true" alt="PairDrop" width="500" height="500"></span>
+<span align="center"><img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/android-chrome-512x512.png?raw=true" alt="PairDrop" width="400" height="400"></span>
 
 ## Brief Overview
 
-[PairDrop](https://pairdrop.net) merupakan Web App yang berfungsi sebagai media transfer data antarperangkat digital. Beberapa fitur utama dari PairDrop antara lain:
+[PairDrop](https://pairdrop.net) merupakan Web App yang berfungsi sebagai media transfer data antarperangkat digital. WebApp ini terinspirasi dari [SnapDrop](https://snapdrop.net) (now defunct) dan juga AirDrop (yang hanya dapat diakses oleh perangkat Apple). PairDrop diciptakan sebagai WebApp alternatif yang bersifat Open Source dan juga menjunjung tinggi konsep Self Hosting oleh penggunanya. Beberapa fitur utama dari PairDrop antara lain:
 - Menghubungkan beberapa gawai dalam jaringan lokal yang sama
   - Dua atau lebih perangkat dapat saling dihubungkan dalam proses transfer data secara lokal.
 - Menghubungkan dua gawai secara permanen
