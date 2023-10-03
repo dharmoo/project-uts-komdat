@@ -57,14 +57,30 @@ Untuk mulai menggunakan PairDrop, pengguna dapat mengklik link [berikut](https:/
 Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain dengan beberapa metode sesuai dengan kebutuhan serta kondisi perangkat dan juga jaringan pengguna:
 ### Melakukan transfer data antarperangkat dalam sebuah jaringan lokal:  
    Langkah 1: Pastikan bahwa kedua perangkat telah terhubung ke dalam jaringan yang sama.  
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/samenetwork.png" alt="samnetwork" width="700" style="display: block; margin: 0 auto;">
+    </p>
+    
    Langkah 2: Untuk mempermudah proses pencarian perangkat, pengguna dapat mengubah nama display perangkat (opsional).  
     <p align="center">
   <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/changename.png" alt="changename" width="700" style="display: block; margin: 0 auto;">
     </p>
     
    Langkah 3: Klik pada perangkat yang ingin dikirimi data.  
-   Langkah 4: Upload file yang akan dikirim.  
-   Langkah 5: Pada perangkat penerima, klik Accept untuk mendownload file.  
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/clickonuser.png" alt="click" width="700" style="display: block; margin: 0 auto;">
+    </p>
+    
+   Langkah 4: Upload dan kirim file yang akan dikirim.  
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/sendpic.png" alt="upload" width="700" style="display: block; margin: 0 auto;">
+    </p>
+    
+   Langkah 5: Pada perangkat penerima, klik Accept untuk mendownload file. 
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/receive.jpg" alt="receive" width="400" style="display: block; margin: 0 auto;">
+    </p>
+    
 ### Menghubungkan dua perangkat secara permanen untuk transfer data:  
    Langkah 1: Pastikan bahwa kedua perangkat masuk ke laman utama PairDrop.  
    Langkah 2: Klik tombol rantai yang ada di bagian kanan atas laman.  
