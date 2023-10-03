@@ -24,58 +24,36 @@ Berikut ini adalah beberapa program yang harus disediakan terlebih dahulu sebelu
 
 ### Langkah-langkah Instalasi
 
-1. login ke dalam server ssh yang ingin digunakan. untuk windows, disarankan untuk menggunakan  wsl
+1. Lakukan proses Log-in ke dalam SSH
     ```
-    $ ssh tim1@159.65.143.175
+    $ ssh username@hostname_or_IP
+    ```  
+2. Lakukan proses instalasi Docker dan juga cloning terhadap Repo PairDrop
     ```
-2. update dan install docker dengan command berikut
-    ```
-    $ ssh tim1@159.65.143.175
-    $ sudo snap install docker
-    ```
-3. buat file docker-compose.yml yang diisikan
-   - **image** `kizaing/kavita:latest`
-   - **container** name bisa diisi sesuka hati, dalam hal ini kami menggunakan nama `kavita`
-   - **volumes** untuk membuat direktori jenis buku yang diinginkan
-   - **environment** untuk menentukan `timezone`
-   - **port**, dalam hal ini kami menggunakan `10000`
+    $ git clone https://github.com/schlagmichdoch/PairDrop.git
+    $ cd PairDrop
+    ```  
+3. Lakukan perubahan ke dalam file docker-compose.yml
+   ```
+   import http.server
+   import socketserver
 
-    Hasil akhir file `docker-compose.yml` adalah sebagai berikut
-    ```
-    services:
-        kavita:
-            image: kizaing/kavita:latest    
-            container_name: kavita
-            volumes:
-                - ./manga:/manga          
-                - ./comics:/comics       
-                - ./books:/books         
-                - ./data:/kavita/config  
-            environment:
-                - TZ=Your/Timezone
-            ports:
-                - "10000:5000" other services
-            restart: unless-stopped
-    ```
+   PORT = 80
 
+   Handler = http.server.SimpleHTTPRequestHandler
 
-
-
-4. jalankan file docker compose
-    ```
-    $ sudo docker-compose up -d
-    ```
-   cek apakah docker berhasil dijalankan
-
-    ```
-    $ sudo docker ps
-    ```
-    
-![docker_run](https://github.com/dwputraa0/Kavita/blob/main/kavita/docker_run.png)
-
-5. setelah berhasil dijalankan, kunjungi alamat `web server` dan buat akun `admin`.
-
-	![admin_dashboard](https://github.com/dwputraa0/Kavita/blob/main/kavita/admin_UI.png)
+   with socketserver.TCPServer(("0.0.0.0", PORT), Handler) as httpd:
+   	print("Server started on port", PORT)
+   	httpd.serve_forever()
+   ```  
+4. Jangan lupa untuk jalankan command ini agar DropPair dapat dideploy:
+   ```
+   $ sudo docker compose up -d
+   ```  
+5. cek apakah docker berhasil dijalankan
+   ```
+   $ sudo docker ps
+   ```  
 
 ## Cara Pemakaian
 
