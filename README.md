@@ -108,26 +108,53 @@ Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain deng
   <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/upload.png" alt="upload" width="700" style="display: block; margin: 0 auto;">
     </p>
     
-   Langkah 6: Pada perangkat penerima, klik Accept untuk mendownload file.
+   Langkah 6: Pada perangkat penerima, klik Accept untuk mendownload file.  
    <p align="center">
   <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/sent.jpg" alt="accept" width="300" style="display: block; margin: 0 auto;">
     </p>
     
    Langkah 7: Untuk memutus hubungan, klik unpair pada perangkat yang ingin diputus hubungannya.  
    <p align="center">
-  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/downloaded.jpg" alt="downloaded" width="300" style="display: block; margin: 0 auto;">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/unpair.png" alt="unpair" width="700" style="display: block; margin: 0 auto;">
     </p>
 
     
 ### Menciptakan ruang publik untuk kebutuhan transfer data:  
    Langkah 1: Pastikan bahwa kedua perangkat masuk ke laman utama PairDrop.  
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/samenetwork.png" alt="samnetwork" width="700" style="display: block; margin: 0 auto;">
+    </p>
+    
    Langkah 2: Klik tombol contact yang ada di bagian kanan atas laman.  
-   Langkah 3: Satu atau lebih pengguna dapat memasukkan kode atau meng-scan kode QR yang ada di perangkat utama untuk dapat masuk ke dalam ruang publik temporari.
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/samenetwork.png" alt="samnetwork" width="700" style="display: block; margin: 0 auto;">
+    </p>
+    
+   Langkah 3: Satu atau lebih pengguna dapat memasukkan kode atau meng-scan kode QR yang ada di perangkat utama untuk dapat masuk ke dalam ruang publik temporari.  
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/qrshare.png" alt="qrshare" width="700" style="display: block; margin: 0 auto;">
+    </p>
+
    Langkah 4: Untuk mempermudah proses pencarian perangkat, pengguna dapat mengubah nama display perangkat (opsional).  
+   
+   
    Langkah 5: Klik pada perangkat yang ingin dikirimi data.  
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/clickon.png" alt="clickondevice" width="700" style="display: block; margin: 0 auto;">
+    </p>
+    
    Langkah 6: Upload file yang akan dikirim.  
-   Langkah 7: Pada perangkat penerima, klik Accept untuk mendownload file.
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/apu.png" alt="upload" width="700" style="display: block; margin: 0 auto;">
+    </p>
+    
+   Langkah 7: Pada perangkat penerima, klik Accept untuk mendownload file.  
+
+   
    Langkah 8: Untuk memutus hubungan, klik unpair pada perangkat yang ingin diputus hubungannya.  
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/leave.png" alt="leave" width="700" style="display: block; margin: 0 auto;">
+    </p>
 
 ## Pembahasan
 
