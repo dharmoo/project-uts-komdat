@@ -50,7 +50,7 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 Untuk mulai menggunakan PairDrop, pengguna dapat mengklik link [berikut](https://ipb.link/komunikasi-lucu). Setelah pengguna mengklik link tersebut, akan muncul tampilan layar PairDrop sebagai berikut:
 
-![homepage]([https://4.bp.blogspot.com/-rmIdzrb4t4E/WOGbktO4p8I/AAAAAAAAGlc/z1NraShhrpUt-4Z0MVfXofZ5IV9hR_XbwCLcB/s1600/presta1.png](https://github.com/dharmoo/project-uts-komdat/blob/main/images/mainroom.png))
+![homepage](https://github.com/dharmoo/project-uts-komdat/blob/main/images/mainroom.png)
 
 Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain dengan beberapa metode sesuai dengan kebutuhan serta kondisi perangkat dan juga jaringan pengguna:
 ### Melakukan transfer data antarperangkat dalam sebuah jaringan lokal:  
