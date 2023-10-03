@@ -51,13 +51,13 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 Untuk mulai menggunakan PairDrop, pengguna dapat mengklik link [berikut](https://ipb.link/komunikasi-lucu). Setelah pengguna mengklik link tersebut, akan muncul tampilan layar PairDrop sebagai berikut:
 
 Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain dengan beberapa metode sesuai dengan kebutuhan serta kondisi perangkat dan juga jaringan pengguna:
-1. Melakukan transfer data antarperangkat dalam sebuah jaringan lokal.  
+### Melakukan transfer data antarperangkat dalam sebuah jaringan lokal.  
    Langkah 1: Pastikan bahwa kedua perangkat telah terhubung ke dalam jaringan yang sama.  
    Langkah 2: Untuk mempermudah proses pencarian perangkat, pengguna dapat mengubah nama display perangkat (opsional).  
    Langkah 3: Klik pada perangkat yang ingin dikirimi data.  
    Langkah 4: Upload file yang akan dikirim.  
    Langkah 5: Pada perangkat penerima, klik Accept untuk mendownload file.  
-3. Menghubungkan dua perangkat secara permanen untuk transfer data  
+### Menghubungkan dua perangkat secara permanen untuk transfer data  
    Langkah 1: Pastikan bahwa kedua perangkat masuk ke laman utama PairDrop.  
    Langkah 2: Klik tombol rantai yang ada di bagian kanan atas laman.  
    Langkah 3: Pengguna dapat memasukkan kode atau meng-scan kode QR yang ada di perangkat yang ingin dihubungkan.  
@@ -65,7 +65,7 @@ Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain deng
    Langkah 5: Upload file yang akan dikirim.  
    Langkah 6: Pada perangkat penerima, klik Accept untuk mendownload file.
    Langkah 7: Untuk memutus hubungan, klik unpair pada perangkat yang ingin diputus hubungannya.  
-5. Menciptakan ruang publik untuk kebutuhan transfer data
+### Menciptakan ruang publik untuk kebutuhan transfer data  
    Langkah 1: Pastikan bahwa kedua perangkat masuk ke laman utama PairDrop.  
    Langkah 2: Klik tombol contact yang ada di bagian kanan atas laman.  
    Langkah 3: Satu atau lebih pengguna dapat memasukkan kode atau meng-scan kode QR yang ada di perangkat yang ingin dimasukkan ke dalam ruang publik temporari.
