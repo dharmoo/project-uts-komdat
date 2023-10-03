@@ -6,12 +6,9 @@
 ## Brief Overview
 
 [PairDrop](https://pairdrop.net) merupakan Web App yang berfungsi sebagai media transfer data antarperangkat digital. WebApp ini terinspirasi dari [SnapDrop](https://snapdrop.net) (now defunct) dan juga AirDrop (yang hanya dapat diakses oleh perangkat Apple). PairDrop diciptakan sebagai WebApp alternatif yang bersifat Open Source dan juga menjunjung tinggi konsep Self Hosting oleh penggunanya. Beberapa fitur utama dari PairDrop antara lain:
-- Menghubungkan beberapa gawai dalam jaringan lokal yang sama
-  - Dua atau lebih perangkat dapat saling dihubungkan dalam proses transfer data secara lokal.
-- Menghubungkan dua gawai secara permanen
-  - Dua perangkat dapat dihubungkan dengan sebuah kode untuk mempermudah proses transfer data yang berkelanjutan.
-- Menciptakan ruang publik yang dapat digunakan sebagai tempat transfer data
-  - Pengguna dapat menciptakan ruang publik khusus di mana pengguna perangkat lain yang diundang dapat masuk dan melakukan transfer data.
+- Menghubungkan beberapa gawai dalam jaringan lokal yang sama.  
+- Menghubungkan dua gawai secara permanen.  
+- Menciptakan ruang publik yang dapat digunakan sebagai tempat transfer data.  
 
 ## Instalasi
 
@@ -221,5 +218,5 @@ Mengingat proses development PairDrop yang terinspirasi dari SnapDrop, maka dapa
 
 ## Referensi
 
-- [PairDrop](https://github.com/schlagmichdoch/PairDrop)  
-- [SnapDrop](https://snapdrop.net)  
+- [PairDrop](https://github.com/schlagmichdoch/PairDrop) - Repo PairDrop  
+- [SnapDrop](https://snapdrop.net) - Website SnapDrop  
