@@ -88,8 +88,20 @@ Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain deng
     </p>
     
    Langkah 2: Klik tombol rantai yang ada di bagian kanan atas laman.  
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/chain.png" alt="chain" width="700" style="display: block; margin: 0 auto;">
+    </p>
+    
    Langkah 3: Pengguna dapat memasukkan kode atau meng-scan kode QR yang ada di perangkat yang ingin dihubungkan.  
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/pair.png" alt="pair" width="700" style="display: block; margin: 0 auto;">
+    </p>
+    
    Langkah 4: Klik pada perangkat yang ingin dikirimi data.  
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/click-pair.png" alt="click" width="700" style="display: block; margin: 0 auto;">
+    </p>
+    
    Langkah 5: Upload file yang akan dikirim.  
    Langkah 6: Pada perangkat penerima, klik Accept untuk mendownload file.
    Langkah 7: Untuk memutus hubungan, klik unpair pada perangkat yang ingin diputus hubungannya.  
