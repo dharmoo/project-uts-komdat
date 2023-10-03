@@ -127,7 +127,7 @@ Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain deng
     
    Langkah 2: Klik tombol contact yang ada di bagian kanan atas laman.  
    <p align="center">
-  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/samenetwork.png" alt="samnetwork" width="700" style="display: block; margin: 0 auto;">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/share2.png" alt="sharebutton" width="700" style="display: block; margin: 0 auto;">
     </p>
     
    Langkah 3: Satu atau lebih pengguna dapat memasukkan kode atau meng-scan kode QR yang ada di perangkat utama untuk dapat masuk ke dalam ruang publik temporari.  
@@ -136,7 +136,9 @@ Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain deng
     </p>
 
    Langkah 4: Untuk mempermudah proses pencarian perangkat, pengguna dapat mengubah nama display perangkat (opsional).  
-   
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/share.png" alt="changename" width="700" style="display: block; margin: 0 auto;">
+    </p>
    
    Langkah 5: Klik pada perangkat yang ingin dikirimi data.  
    <p align="center">
@@ -149,11 +151,13 @@ Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain deng
     </p>
     
    Langkah 7: Pada perangkat penerima, klik Accept untuk mendownload file.  
-
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/qrshare.png" alt="qrshare" width="700" style="display: block; margin: 0 auto;">
+    </p>
    
    Langkah 8: Untuk memutus hubungan, klik unpair pada perangkat yang ingin diputus hubungannya.  
    <p align="center">
-  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/leave.png" alt="leave" width="700" style="display: block; margin: 0 auto;">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/apureceived.jpg" alt="received" width="300" style="display: block; margin: 0 auto;">
     </p>
 
 ## Pembahasan
