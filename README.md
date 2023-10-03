@@ -4,17 +4,15 @@
 
 <span align="center"><img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/android-chrome-512x512.png?raw=true" alt="PairDrop" width="500" height="500"></span>
 
-## Sekilas Tentang
+## Brief Overview
 
 [PairDrop](https://pairdrop.net) merupakan Web App yang berfungsi sebagai media transfer data antarperangkat digital. Beberapa fitur utama dari PairDrop antara lain:
-
-- File Sharing on your local network
-  - Send images, documents or text via peer to peer connection to devices on the same local network.
-- Internet Transfers
-  - Join temporary public rooms to transfer files easily over the internet!
-- Web-Application 
-  - As it is web based, it runs on all devices.
-
+- Menghubungkan beberapa gawai dalam jaringan lokal yang sama
+  - Dua atau lebih perangkat dapat saling dihubungkan dalam proses transfer data secara lokal.
+- Menghubungkan dua gawai secara permanen
+  - Dua perangkat dapat dihubungkan dengan sebuah kode untuk mempermudah proses transfer data yang berkelanjutan.
+- Menciptakan ruang publik yang dapat digunakan sebagai tempat transfer data
+  - Pengguna dapat menciptakan ruang publik khusus di mana pengguna perangkat lain yang diundang dapat masuk dan melakukan transfer data.
 
 ## Instalasi
 
