@@ -51,12 +51,12 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 Untuk mulai menggunakan PairDrop, pengguna dapat mengklik link [berikut](https://ipb.link/komunikasi-lucu). Setelah pengguna mengklik link tersebut, akan muncul tampilan layar PairDrop sebagai berikut:
 
 Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain dengan beberapa metode sesuai dengan kebutuhan serta kondisi perangkat dan juga jaringan pengguna:
-1. Melakukan transfer data antarperangkat dalam sebuah jaringan lokal
-   Langkah 1: Pastikan bahwa kedua perangkat telah terhubung ke dalam jaringan yang sama
-   Langkah 2: Untuk mempermudah proses pencarian perangkat, pengguna dapat mengubah nama display perangkat (opsional)
-   Langkah 3: Klik pada perangkat yang ingin dikirimi data
-   Langkah 4: Upload file yang akan dikirim
-   Langkah 5: Pada perangkat penerima, klik Accept
+1. Melakukan transfer data antarperangkat dalam sebuah jaringan lokal  
+   Langkah 1: Pastikan bahwa kedua perangkat telah terhubung ke dalam jaringan yang sama  
+   Langkah 2: Untuk mempermudah proses pencarian perangkat, pengguna dapat mengubah nama display perangkat (opsional)  
+   Langkah 3: Klik pada perangkat yang ingin dikirimi data  
+   Langkah 4: Upload file yang akan dikirim  
+   Langkah 5: Pada perangkat penerima, klik Accept  
 3. Menghubungkan dua perangkat secara permanen untuk transfer data
 4. Menciptakan ruang publik untuk kebutuhan transfer data
 
