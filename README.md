@@ -52,7 +52,25 @@ Berikut ini adalah beberapa program yang harus disediakan terlebih dahulu sebelu
 5. Cek apakah docker berhasil dijalankan:  
    ```
    $ sudo docker ps
-   ```  
+   ```
+   
+## Konfigurasi
+
+Lakukan konfigurasi sebagai berikut:  
+  ```
+  version: "3"
+  services:
+    node:
+      image: "node:lts-alpine"
+      user: "node"
+      working_dir: /home/node/app
+      volumes:
+        - ./:/home/node/app
+      command: ash -c "npm i && npm run start:prod"
+      restart: unless-stopped
+      ports:
+        - "80:3000"
+  ```  
 
 ## Cara Pemakaian
 
