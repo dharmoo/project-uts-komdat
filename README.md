@@ -80,6 +80,7 @@ Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain deng
    <p align="center">
   <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/receive.jpg" alt="receive" width="300" style="display: block; margin: 0 auto;">
     </p>
+
     
 ### Menghubungkan dua perangkat secara permanen untuk transfer data:  
    Langkah 1: Pastikan bahwa kedua perangkat masuk ke laman utama PairDrop. 
@@ -103,8 +104,21 @@ Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain deng
     </p>
     
    Langkah 5: Upload file yang akan dikirim.  
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/upload.png" alt="upload" width="700" style="display: block; margin: 0 auto;">
+    </p>
+    
    Langkah 6: Pada perangkat penerima, klik Accept untuk mendownload file.
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/sent.jpg" alt="accept" width="300" style="display: block; margin: 0 auto;">
+    </p>
+    
    Langkah 7: Untuk memutus hubungan, klik unpair pada perangkat yang ingin diputus hubungannya.  
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/downloaded.jpg" alt="downloaded" width="300" style="display: block; margin: 0 auto;">
+    </p>
+
+    
 ### Menciptakan ruang publik untuk kebutuhan transfer data:  
    Langkah 1: Pastikan bahwa kedua perangkat masuk ke laman utama PairDrop.  
    Langkah 2: Klik tombol contact yang ada di bagian kanan atas laman.  
