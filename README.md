@@ -24,14 +24,58 @@ Berikut ini adalah beberapa program yang harus disediakan terlebih dahulu sebelu
 
 ### Langkah-langkah Instalasi
 
-Langkah 1: Lakukan Log-in ke SSH.  
-```
-$ ssh username@hostname_or_IP
-```  
-Langkah 2: Install Docker dan juga lakukan cloning dari Repo PairDrop.  
-Langkah 3: Lakukan perubahan ke file docker-compose.yml, sebagai berikut.  
-Langkah 4: Jangan lupa untuk menambahkan command berikut agar webnya dapat dideploy.  
-Langkah 5: Selamat, PairDrop sudah berhasil dideploy!  
+1. login ke dalam server ssh yang ingin digunakan. untuk windows, disarankan untuk menggunakan  wsl
+    ```
+    $ ssh tim1@159.65.143.175
+    ```
+2. update dan install docker dengan command berikut
+    ```
+    $ ssh tim1@159.65.143.175
+    $ sudo snap install docker
+    ```
+3. buat file docker-compose.yml yang diisikan
+   - **image** `kizaing/kavita:latest`
+   - **container** name bisa diisi sesuka hati, dalam hal ini kami menggunakan nama `kavita`
+   - **volumes** untuk membuat direktori jenis buku yang diinginkan
+   - **environment** untuk menentukan `timezone`
+   - **port**, dalam hal ini kami menggunakan `10000`
+
+    Hasil akhir file `docker-compose.yml` adalah sebagai berikut
+    ```
+    services:
+        kavita:
+            image: kizaing/kavita:latest    
+            container_name: kavita
+            volumes:
+                - ./manga:/manga          
+                - ./comics:/comics       
+                - ./books:/books         
+                - ./data:/kavita/config  
+            environment:
+                - TZ=Your/Timezone
+            ports:
+                - "10000:5000" other services
+            restart: unless-stopped
+    ```
+
+
+
+
+4. jalankan file docker compose
+    ```
+    $ sudo docker-compose up -d
+    ```
+   cek apakah docker berhasil dijalankan
+
+    ```
+    $ sudo docker ps
+    ```
+    
+![docker_run](https://github.com/dwputraa0/Kavita/blob/main/kavita/docker_run.png)
+
+5. setelah berhasil dijalankan, kunjungi alamat `web server` dan buat akun `admin`.
+
+	![admin_dashboard](https://github.com/dwputraa0/Kavita/blob/main/kavita/admin_UI.png)
 
 ## Cara Pemakaian
 
