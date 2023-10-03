@@ -19,33 +19,6 @@
 - Prasyarat, apa saja yang harus diinstal sebelumnya.
 - Langkah instalasi dalam CLI.
 
-
-## Konfigurasi (opsional)
-
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- batas upload file
-- batas memori
-- dll
-
-Plugin untuk fungsi tambahan
-- login dengan Google/Facebook
-- editor Markdown
-- dll
-
-
-##  Maintenance (opsional)
-
-Setting tambahan untuk maintenance secara periodik, misalnya:
-- buat backup database tiap pekan
-- hapus direktori sampah tiap hari
-- dll
-
-
-## Otomatisasi (opsional)
-
-Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
-
-
 ## Cara Pemakaian
 
 Untuk mulai menggunakan PairDrop, pengguna dapat mengklik link [berikut](https://ipb.link/komunikasi-lucu). Setelah pengguna mengklik link tersebut, akan muncul tampilan layar PairDrop sebagai berikut:
@@ -162,15 +135,28 @@ Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain deng
 
 ## Pembahasan
 
-- Pendapat anda tentang aplikasi web ini
-    - kelebihan
-    - kekurangan
+Penjelasan terkait kelebihan dan juga kekurangan dari WebApp PairDrop ialah sebagai berikut:  
 
-Jika dibandingkan dengan WebApp lain yang menjadi inspirasi dari dibuatnya PairDrop (AirDrop dan juga SnapDrop), terdapat beberapa perbedaan fundamental antara ketiga WebApp ini.
+### Kelebihan PairDrop
+
+Terdapat cukup banyak hal positif yang menjadikan PairDrop pilihan alternatif yang baik untuk dijadikan media transfer data sederhana. Beberapa kelebihan tersebut ialah sebagai berikut:  
+  - Sifat PairDrop yang sangat terbuka terhadap prinsip Open Source dan juga Self-Hosting.  
+  - User Experience yang jelas dan tidak membingungkan, dengan tampilan yang sederhana.  
+  - Terdapat banyak cara untuk menghubungkan dua perangkat (Membuat Public Room, Menghubungkan Perangkat secara Permanen dengan Kode, dan juga Menghubungkan Perangkat dalam Jaringan yang Sama). Hal ini memungkinkan bagi pengguna untuk menyesuaikan metode koneksi yang sesuai dengan kebutuhan dan juga kondisi yang ada.
+  - Terdapat banyak fitur yang meningkatkan Quality of Life (QoL) seperti Dark Mode, Multilingual, dan juga Notifikasi perangkat. 
+
+### Kekurangan PairDrop
+
+Meskipun ada banyak hal positif dalam WebApp PairDrop, kami masih menemukan beberapa kekurangan ataupun limitasi yang diharapkan dapat diperbaiki oleh pihak pengembang. Kekurangan-kekurangan tersebut ialah sebagai berikut: 
+  - Perangkat Apple masih belum dapat dihubungkan dengan perangkat Non-Apple. Hal ini mengakibatkan proses transfer data antara kedua perangkat tidak mungkin terjadi.
+  - Kecepatan proses pendeteksian perangkat dalam sebuah jaringan masih dapat ditingkatkan kembali.
+
+
+Selanjutnya, jika dibandingkan dengan WebApp lain yang menjadi inspirasi dari dibuatnya PairDrop (AirDrop dan juga SnapDrop), terdapat beberapa perbedaan fundamental antara ketiga WebApp ini.
 
 ### Perbandingan dengan AirDrop
 
-Perbedaan utama antara PairDrop dan juga AirDrop yang dimiliki oleh Apple ialah dari tingkat kompatibilitasnya. Berbeda dengan AirDrop yang dikhususkan untuk perangkat Apple saja, PairDrop dapat diakses dan digunakan oleh hampir semua perangkat Non-Apple. Sama seperti dengan sistem AirDrop, PairDrop juga dapat menghubungkan antara handphone dengan laptop ataupun PC. Hal ini menunjukkan bahwa sebenarnya kinerja dari PairDrop sangatlah mirip dengan AirDrop, dengan perbedaan utamanya yang terletak di metode connect PairDrop yang lebih beragam.
+Perbedaan utama antara PairDrop dan juga AirDrop yang dimiliki oleh Apple ialah dari tingkat kompatibilitasnya. Berbeda dengan AirDrop yang dikhususkan untuk perangkat Apple saja, PairDrop dapat diakses dan digunakan oleh hampir semua perangkat. Sama seperti dengan sistem AirDrop, PairDrop juga dapat menghubungkan antara handphone dengan laptop ataupun PC. Hal ini menunjukkan bahwa sebenarnya kinerja dari PairDrop sangatlah mirip dengan AirDrop, dengan perbedaan utamanya yang terletak di metode connect PairDrop yang lebih beragam.
 
 ### Perbandingan dengan SnapDrop
 
