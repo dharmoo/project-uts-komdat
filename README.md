@@ -58,6 +58,9 @@ Setelah masuk, pengguna dapat melakukan transfer data dengan perangkat lain deng
 ### Melakukan transfer data antarperangkat dalam sebuah jaringan lokal:  
    Langkah 1: Pastikan bahwa kedua perangkat telah terhubung ke dalam jaringan yang sama.  
    Langkah 2: Untuk mempermudah proses pencarian perangkat, pengguna dapat mengubah nama display perangkat (opsional).  
+   <p align="center">
+  <img src="https://github.com/dharmoo/project-uts-komdat/blob/main/images/changename.png" alt="changename" width="700" style="display: block; margin: 0 auto;">
+</p>
    Langkah 3: Klik pada perangkat yang ingin dikirimi data.  
    Langkah 4: Upload file yang akan dikirim.  
    Langkah 5: Pada perangkat penerima, klik Accept untuk mendownload file.  
