@@ -6,7 +6,14 @@
 
 ## Sekilas Tentang
 
-Deskripsi singkat tentang aplikasi tsb.
+[PairDrop](https://pairdrop.net) merupakan Web App yang berfungsi sebagai media transfer data antarperangkat digital. Beberapa fitur utama dari PairDrop antara lain:
+
+- File Sharing on your local network
+  - Send images, documents or text via peer to peer connection to devices on the same local network.
+- Internet Transfers
+  - Join temporary public rooms to transfer files easily over the internet!
+- Web-Application 
+  - As it is web based, it runs on all devices.
 
 
 ## Instalasi
